@@ -1,0 +1,30 @@
+
+body{
+    text-align: center;
+    padding-top: 30%;
+    padding-bottom: 25%;
+    font-size: larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: cadetblue;
+    border: solid 3px floralwhite;
+    border-radius: 15%;
+}
+input{
+    text-align: center;
+    font-size: large;
+    border: solid 2px black;
+    
+}
+button{
+    text-align: center;
+    font-size: large;
+    border: solid 2px black;
+    border-radius: 0px;
+    box-shadow: 0 5px lightgray;
+}
+button:hover{
+    border: floralwhite;
+    box-shadow: 0 5px black;
+    background-color: black;
+    color: floralwhite;
+}
